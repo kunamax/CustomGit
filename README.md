@@ -7,3 +7,6 @@ go build main.go
 ```bash
 ./main
 ```
+<p align="center">
+  <img width="391" alt="image" src="https://github.com/user-attachments/assets/8a9f7851-ad38-4f96-ad1d-e3a5865952f1">
+</p>
