@@ -1,0 +1,12 @@
+commit ceb5933fcc1001e1532382f6c6e31eab2ef18edb2b0dfbe608cd11a53279fb70
+Author: Jakub Sadkiewicz
+Another changes
+
+commit e478c81271c329f97a24a7b013ef90b45a01ad1dc68a0d0b558c0db2738792a1
+Author: Jakub Sadkiewicz
+Add some files
+
+commit e478c81271c329f97a24a7b013ef90b45a01ad1dc68a0d0b558c0db2738792a1
+Author: Jakub Sadkiewicz
+Init
+
