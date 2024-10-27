@@ -1,3 +1,0 @@
-sample.txt
-new.txt
-text.txt
